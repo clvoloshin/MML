@@ -1,0 +1,6 @@
+torch
+numpy
+scipy
+gym
+matplotlib
+cvxpy
